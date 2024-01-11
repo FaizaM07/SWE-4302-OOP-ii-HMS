@@ -14,7 +14,7 @@ namespace Hospital_Management_System
         {
             HospitalManagementSyS hospitalSystem = new HospitalManagementSyS();
 
-            // Adding sample doctors to the system
+            
             Doctor Cardiologist = new Doctor { DoctorID = 1, Name = "Dr. Smith", Specialization = "Cardiologist", ContactNumber = "987654321" };
             Doctor Neurologist = new Doctor { DoctorID = 2, Name = "Dr. Johnson", Specialization = "Neurologist", ContactNumber = "123456789" };
             Doctor MedicineSpecialist = new Doctor { DoctorID = 3, Name = "Dr. Williams", Specialization = "MedicineSpecialist", ContactNumber = "555555555" };
@@ -26,7 +26,7 @@ namespace Hospital_Management_System
             hospitalSystem.AddDoctor(Dentist);
             hospitalSystem.AddDoctor(Pediatrician);
 
-            // Patient visits the hospital
+            
             Console.WriteLine("Welcome to the Hospital Management System");
             Console.Write("Enter patient name: ");
             string patientName = Console.ReadLine();
@@ -41,7 +41,7 @@ namespace Hospital_Management_System
             Console.Write("Enter patient's disease: ");
             string patientDisease = Console.ReadLine();
 
-            // Create a new patient
+            // a new patient is created
             Patient patient = new Patient
             {
                 PatientID = hospitalSystem.GetAllPatients().Count + 1,
@@ -67,7 +67,7 @@ namespace Hospital_Management_System
                 Console.WriteLine($"ID: {doctor.DoctorID}, Name: {doctor.Name}, Specialization: {doctor.Specialization}, Contact: {doctor.ContactNumber}");
             }
 
-            // Patient chooses a doctor (for simplicity, let's assume the first specialist doctor)
+            // Patient chooses a doctor
             Doctor chosenDoctor = specialistDoctors[0];
             // Schedule an appointment
             Console.Write("Enter appointment date (yyyy-MM-dd): ");
