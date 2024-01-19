@@ -1,0 +1,24 @@
+D:\VS_code_JAVA\ooptwofinal\bin\Debug\ooptwofinal.exe.config
+D:\VS_code_JAVA\ooptwofinal\bin\Debug\ooptwofinal.exe
+D:\VS_code_JAVA\ooptwofinal\bin\Debug\ooptwofinal.pdb
+D:\VS_code_JAVA\ooptwofinal\obj\Debug\ooptwofinal.csproj.AssemblyReference.cache
+D:\VS_code_JAVA\ooptwofinal\obj\Debug\ooptwofinal.csproj.SuggestedBindingRedirects.cache
+D:\VS_code_JAVA\ooptwofinal\obj\Debug\ooptwofinal.csproj.CoreCompileInputs.cache
+D:\VS_code_JAVA\ooptwofinal\obj\Debug\ooptwofinal.exe
+D:\VS_code_JAVA\ooptwofinal\obj\Debug\ooptwofinal.pdb
+C:\Users\faiza\OneDrive\Desktop\ooptwofinal\bin\Debug\ooptwofinal.exe.config
+C:\Users\faiza\OneDrive\Desktop\ooptwofinal\bin\Debug\ooptwofinal.exe
+C:\Users\faiza\OneDrive\Desktop\ooptwofinal\bin\Debug\ooptwofinal.pdb
+C:\Users\faiza\OneDrive\Desktop\ooptwofinal\obj\Debug\ooptwofinal.csproj.AssemblyReference.cache
+C:\Users\faiza\OneDrive\Desktop\ooptwofinal\obj\Debug\ooptwofinal.csproj.SuggestedBindingRedirects.cache
+C:\Users\faiza\OneDrive\Desktop\ooptwofinal\obj\Debug\ooptwofinal.csproj.CoreCompileInputs.cache
+C:\Users\faiza\OneDrive\Desktop\ooptwofinal\obj\Debug\ooptwofinal.exe
+C:\Users\faiza\OneDrive\Desktop\ooptwofinal\obj\Debug\ooptwofinal.pdb
+D:\IUT\Semester\2-2\New folder\ooptwofinal\bin\Debug\ooptwofinal.exe.config
+D:\IUT\Semester\2-2\New folder\ooptwofinal\bin\Debug\ooptwofinal.exe
+D:\IUT\Semester\2-2\New folder\ooptwofinal\bin\Debug\ooptwofinal.pdb
+D:\IUT\Semester\2-2\New folder\ooptwofinal\obj\Debug\ooptwofinal.csproj.AssemblyReference.cache
+D:\IUT\Semester\2-2\New folder\ooptwofinal\obj\Debug\ooptwofinal.csproj.SuggestedBindingRedirects.cache
+D:\IUT\Semester\2-2\New folder\ooptwofinal\obj\Debug\ooptwofinal.csproj.CoreCompileInputs.cache
+D:\IUT\Semester\2-2\New folder\ooptwofinal\obj\Debug\ooptwofinal.exe
+D:\IUT\Semester\2-2\New folder\ooptwofinal\obj\Debug\ooptwofinal.pdb
