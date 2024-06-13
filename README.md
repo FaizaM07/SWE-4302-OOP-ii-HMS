@@ -1,6 +1,6 @@
 # Hospital Management System
 
-Welcome to the XYZ Hospital Management System, a console-based application using c# for managing appointments, patients, doctors, and more!
+Welcome to the MedAll Hospital Management System, a console-based application using c# for managing appointments, patients, doctors, and more!
 
 ## Overview
 
